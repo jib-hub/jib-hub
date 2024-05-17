@@ -1,5 +1,12 @@
 # Hi there 👋
 
+I am Julian, Web Developer from Vienna (Austria).
+
+Front-End-Specialist | Wordpress-Expert | Freelancer
+
+
+## Info
+
 - 🔭 I’m currently working on different projects based on WordPress, Landingpages with JS & Tailwind, WebApps and a LIRT-Stack (Laravel Inertia React Tailwind) course on udemy
 - 🌱 I’m currently learning to develop PWAs, AngularJS, elixir & Phoenix
 - 👯 I’m looking to collaborate on open source
